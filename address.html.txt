@@ -2,6 +2,7 @@
 <body>
 <h1>Address</h1>
 <p>Petabytz Technologies
-Madhapur</p>
+Madhapur
+nikitha@gmail.com </p>
 </body>
 </html>
