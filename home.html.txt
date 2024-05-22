@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1> Branching Project</h1>
-<p>Learning Branching and doing practical in Git</p>
+<p>Learning Branching in Git
+	Want to know more about Git</p>
 </body>
 </html>
