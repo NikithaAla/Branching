@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1> Test file /h1>
-<p>Learning Git</p>
+<p>Learning Git and updating</p>
 </body>
 </html>
