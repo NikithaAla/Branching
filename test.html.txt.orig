@@ -1,0 +1,10 @@
+<html>
+<body>
+<h1> Test file /h1>
+<<<<<<< HEAD
+<p>Learning Git and updating</p>
+=======
+<p>Learning Git and doing practicals</p>
+>>>>>>> 21bfbaa (Updated test page)
+</body>
+</html>

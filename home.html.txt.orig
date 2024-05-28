@@ -1,0 +1,11 @@
+<html>
+<body>
+<h1> Branching Project</h1>
+<<<<<<< HEAD
+<p>Learning Branching and doing practical in Git</p>
+=======
+<p>Learning Branching in Git
+	Want to know more about Git</p>
+>>>>>>> 37b1740 (Edited)
+</body>
+</html>
